@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://newbean0312.github.io/portfolio/)" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=flat&logo=microdotblog&logoColor=ffffff"/></a>
+<a href="https://newbean0312.github.io/portfolio/)" target="_blank"><img src="https://img.shields.io/badge/Portfolio_WebSite-000000?style=flat&logo=microdotblog&logoColor=ffffff"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-d64934?style=flat&logo=tistory&logoColor=ffffff"/></a>
