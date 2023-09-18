@@ -2,9 +2,9 @@
 ---
 
 ## 🧑‍💻 안녕하세요 프론트엔드 개발자 전유빈입니다.
-<a href="https://newbean0312.github.io/portfolio/)" target="_blank"><img src="https://img.shields.io/badge/Portfolio_WebSite-784b08?style=flat&logo=microdotblog&logoColor=ffffff"/></a>
-<a href="https://newbean-j.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-d64934?style=flat&logo=tistory&logoColor=ffffff"/></a>
-<a href="#none" target="_blank"><img src="https://img.shields.io/badge/newbean0312@gmail.com-32a85c?style=flat&logo=Gmail&logoColor=ffffff"/></a>
+<a href="https://newbean0312.github.io/portfolio)" target="_blank"><img src="https://img.shields.io/badge/Portfolio_WebSite-784b08?style=flat&logo=microdotblog&logoColor=ffffff"/></a>
+<a href="https://newbean-j.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory_Blog-d64934?style=flat&logo=tistory&logoColor=ffffff"/></a>
+<a href="#none"><img src="https://img.shields.io/badge/newbean0312@gmail.com-32a85c?style=flat&logo=Gmail&logoColor=ffffff"/></a>
 
 ## 📃목표 
 새로운 기능을 꾸준히 배워 창의적인 홈페이지를 제작하는 개발자가 되는 것이 목표입니다!
