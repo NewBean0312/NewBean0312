@@ -10,6 +10,6 @@
 새로운 기능을 꾸준히 배워 창의적인 홈페이지를 제작하는 개발자가 되는 것이 목표입니다!
 
 ## 사용언어 💻
-<img src="https://img.shields.io/badge/Portfolio_WebSite-E34F26?style=flat&logo=html5&logoColor=ffffff" style="user-select:none"/>
+<img src="https://img.shields.io/badge/Portfolio_WebSite-E34F26?style=flat&logo=html5&logoColor=ffffff" style="user-select=none"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewBean0312&show_icons=true&theme=radical)
