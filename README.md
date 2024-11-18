@@ -20,3 +20,11 @@
 
 ## 📈Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewBean0312&show_icons=true&theme=radical)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/NewBean0312"
+  width="600"
+  height="300"
+/>
+</a>
